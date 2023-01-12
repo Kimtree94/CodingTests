@@ -1,4 +1,4 @@
-public class 암호해독_프로그래머스 {
+public class            암호해독_프로그래머스 {
     public static void main(String[] args) {
         /*
         군 전략가 머쓱이는 전쟁 중 적군이 다음과 같은 암호 체계를 사용한다는 것을 알아냈습니다.

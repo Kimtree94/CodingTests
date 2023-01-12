@@ -7,6 +7,7 @@ public class 세균증식_프로그래머스 {
 
         answer = n << t;
         System.out.println(answer);
+        System.out.println(Character.isUpperCase(answer));
 
         /*
         자바에는 총 3개의 비트 쉬프트 연산자를 가지고 있으며 이는 피연산자의 비트열을 왼쪽 혹은 오른쪽으로 이동시키는 연산자 이다.
