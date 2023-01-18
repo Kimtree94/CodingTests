@@ -27,3 +27,24 @@ public class 문자열정렬하기_프로그래머스 {
         }
     }
 }
+
+
+/*
+class Solution {
+    public int[] solution(String my_string) {
+
+      List<Integer> list=new ArrayList<>();
+      for(int i=0; i<my_string.length(); i++) {
+         if(my_string.charAt(i)>=48 &&my_string.charAt(i)<=57) {
+            list.add(Integer.valueOf(my_string.charAt(i)));
+         }
+      }
+      int[] answer = new int[list.size()];
+      for(int i=0; i<list.size(); i++) {
+         answer[i]=list.get(i);
+      }
+        Arrays.sort(answer);
+        return answer;
+    }
+}
+*/
