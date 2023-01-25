@@ -10,6 +10,7 @@ public class 숫자찾기_프로그래머스 {
         int k=7;
         int answer=0;
         int[] Num = Stream.of(String.valueOf(num).split("")).mapToInt(Integer::parseInt).toArray(); // num을 Stream 을 사용해서 한자리수로 자른다.
+
         for(int i=0;i<Num.length;i++){ // 반복문을 돌려서
             if(Num[i]==k){// 조건을 설정하고
                 answer=i+1; // 배열은 0번째부터니까 +1을 해준다
