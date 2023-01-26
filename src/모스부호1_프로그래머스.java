@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class 모스부호1_프로그래머스 {
     public static void main(String[] args) {
-        Map<String, String> morse = new HashMap<>() {//속도가 빠른 Map
+        Map<String, String> morse = new HashMap<String, String>() {//속도가 빠른 Map
             {
                 put(".-", "a");
                 put("-...", "b");
