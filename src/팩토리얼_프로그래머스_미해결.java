@@ -1,4 +1,4 @@
-public class 팩토리얼_프로그래머스 {
+public class 팩토리얼_프로그래머스_미해결 {
     public static void main(String[] args) {
         /*
         i팩토리얼 (i!)은 1부터 i까지 정수의 곱을 의미합니다.

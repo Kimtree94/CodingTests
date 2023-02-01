@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class 가까운수_프로그래머스 {
+public class 가까운수_프로그래머스_미해결 {
     public static void main(String[] args) {
         /*
         정수 배열 array와 정수 n이 매개변수로 주어질 때,
